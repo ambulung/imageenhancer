@@ -9,13 +9,6 @@ A straightforward desktop application built with Python, Tkinter, and Pillow, al
 *   Real-time preview of adjustments.
 *   Save enhanced images.
 
-## Screenshot
-
-*(Optional: Replace this with a screenshot or GIF to show your app in action!)*
-
-![Image Enhancer Screenshot](screenshot.png)
-*(Self-note: You'll need to save a screenshot as `screenshot.png` in your repository root.)*
-
 ## Installation & Usage
 
 Follow these steps to get the app running:
