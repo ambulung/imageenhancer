@@ -1,4 +1,4 @@
-# ✨ Python Image Enhancer App 🖼️
+# Python Image Enhancer App
 
 A straightforward desktop application built with Python, Tkinter, and Pillow, allowing you to easily enhance and adjust your images.
 
