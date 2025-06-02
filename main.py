@@ -84,7 +84,7 @@ class ImageEnhancer:
             except Exception as e:
                 messagebox.showerror("Error", f"Failed to save image: {e}")
         else:
-            messagebox.showwarning("Warning", "No image to save.")
+            messagebox.showwarning("Warning", "")
 
 
 class ImageEnhancerApp:
